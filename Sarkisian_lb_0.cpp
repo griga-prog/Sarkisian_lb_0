@@ -5,10 +5,10 @@
 
 int main()
 {
-    int x;
+   
     std::cout << "Hello World!\n";
-    std::cin >> x;
-    return 1;
+    
+  
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
