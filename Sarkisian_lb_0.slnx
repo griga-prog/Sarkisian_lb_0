@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Sarkisian_lb_0.vcxproj" />
+  <Project Path="Sarkisian_lb_0.vcxproj" Id="6d1cce59-2e3d-44c6-85b9-0b92314f7467" />
 </Solution>
